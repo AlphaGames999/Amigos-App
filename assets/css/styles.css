@@ -1,0 +1,29 @@
+.title {
+    font-family: 'calibri', arial, sans-serif;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px lightgrey;
+}
+
+.btn {
+    padding: 1em;
+    background: rgba(0, 130, 242, 0);
+    margin: 5px;
+    border: solid lightblue 1px;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px 0px lightgrey;
+    transition: all ease 0.5s;
+    font-family: 'arial', sans-serif;
+    font-size: 25px;
+}
+
+.btn:hover {
+    background: lightblue;
+    color: white;
+    cursor: pointer;
+}
+
+.btn:active {
+    background: blue;
+    color: white;
+    cursor: pointer;
+}
