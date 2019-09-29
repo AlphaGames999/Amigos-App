@@ -26,4 +26,5 @@
     background: blue;
     color: white;
     cursor: pointer;
+    border: solid blue 1px;
 }
